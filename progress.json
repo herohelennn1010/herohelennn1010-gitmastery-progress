@@ -106,5 +106,14 @@
       "Branch 'feature-delete' still exists! Remember to delete it after merging!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1787738825.302085,
+    "completed_at": 1787738830.03394,
+    "comments": [
+      "Contents of 'features.md' is not valid! Try again!"
+    ],
+    "status": "Incomplete"
   }
 ]
